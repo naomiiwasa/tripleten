@@ -1,0 +1,7 @@
+#AQUI agrego las librerias que voy a requerir para mi código
+#luego agrego la base de dato en la carpeta, y la renombro en el código
+
+pandas==2.2.3
+plotly==6.2.0
+streamlit==1.46.1
+
